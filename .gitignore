@@ -1,0 +1,16 @@
+# Secretos y credenciales
+.env
+.env.*
+!.env.example
+openclaw.json
+**/openclaw.json
+
+# Copias de seguridad
+*.bak
+*.bak.*
+*.backup
+
+# Claves privadas
+*.pem
+id_rsa
+id_ed25519
